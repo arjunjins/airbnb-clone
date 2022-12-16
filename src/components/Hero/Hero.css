@@ -4,12 +4,13 @@
 }
 
 img {
-  width: 80%;
+  width: 100%;
   padding-top: 3%;
 }
 
 h1 {
   margin-bottom: 0;
+  margin-top: 0;
 }
 .hero-text {
   text-align: left;
@@ -18,10 +19,12 @@ h1 {
 
 .hero-text > h1 {
   font-weight: 600;
-  font-size: 56px;
+  font-size: 40px;
+  margin-top: 2px;
 }
 
 .hero-text > p {
-    font-weight: 300;
-    font-size: 28px;
+  font-weight: 300;
+  font-size: 16px;
+  width: 340px;
 }

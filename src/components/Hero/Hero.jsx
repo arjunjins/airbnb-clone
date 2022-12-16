@@ -3,7 +3,7 @@ import "./Hero.css";
 import pics from "../../assets/Group 77-2.png";
 const Hero = () => {
   return (
-    <div className="hero">
+    <section className="hero">
       <img src={pics} alt="" />
       <div className="hero-text">
         <h1>Online Experiences</h1>
@@ -12,7 +12,7 @@ const Hero = () => {
           without leaving home.
         </p>
       </div>
-    </div>
+    </section>
   );
 };
 

@@ -1,0 +1,40 @@
+.dp {
+  width: 85%;
+}
+
+.star {
+  width: 15px;
+  padding-top: 0;
+}
+
+.review {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  column-gap: 6px;
+}
+
+.silver-text {
+  font-weight: 300;
+  color: #918e9b;
+  font-size: 12px;
+}
+
+.text {
+  font-weight: 300;
+  color: #222222;
+  font-size: 14px;
+}
+
+.bold-text {
+  font-weight: 600;
+}
+
+.card {
+  padding: 20px;
+  width: 175px;
+}
+
+#rating {
+  font-size: 12px;
+}
